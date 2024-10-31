@@ -1,0 +1,124 @@
+.techstudio-header {
+}
+#wpwrap .section {
+	background-color: #F6F6F6;
+	border: 1px solid #CCCCCC;
+	float: left;
+	margin: 8px 0 15px;
+	padding: 0 20px 15px;
+	clear: both;
+	position: relative;
+}
+#wpwrap .section.table-of-contents {
+	border-color: #ff0000;
+	background-color: #e6e6e6;
+}
+#wpwrap .section.table-of-contents:hover {
+}
+#wpwrap h3 {
+	margin-bottom: 0;
+	padding: 0;
+	clear: both;
+}
+#wpwrap .section ul {
+	margin: 0 0 15px 10px;
+	list-style-type: decimal;
+	list-style-position: inside;
+}
+#wpwrap .section ul li {
+}
+#wpwrap .section ul li ul {
+	margin-top: 5px;
+	margin-left: 20px;
+	list-style-type: lower-alpha;
+	list-style-position: inside;
+}
+#wpwrap .section ul a:hover {
+	background: #000;
+	color: #fff;
+	text-decoration: none;
+}
+.screencast-video object {
+	border: 2px solid #ccc;
+}
+.show-hide-acc {
+	width: 100px;
+	border: 1px solid #ccc;
+	font-size: 11px;
+	padding: 0 5px;
+	margin: 10px 0 0;
+	cursor: pointer;
+	text-align: center;
+}
+.show-hide-acc.over {
+	background: #eaeaea;
+}
+.plugin-info {	
+}
+.plugin-info li {
+	float: left;
+	background-color: #F6F6F6;
+	border: 1px solid #ff0000;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-khtml-border-radius: 10px;
+	padding: 10px;
+	margin: 0 10px 10px 0;
+}
+.plugin-info li h3 {
+	margin-top: 0 !important;
+}
+.plugin-info li.donate, .plugin-info li.info {
+	width: 463px;
+	height: 140px;
+}
+.plugin-info li.ads125 {
+	width: 285px;
+	overflow: hidden;
+}
+.plugin-info li.donate .paypal-donate-button {
+	float: right;
+}
+.clear { clear:both; }
+.main-function-buttons {
+	margin: 3px 0 20px;
+}
+.section .main-function-buttons {
+	margin-top: 0;
+}
+.main-function-buttons form {
+	float: left;
+	margin: 0 4px 0 0;
+}
+.editing h5 {
+	display: block;
+}
+input.tt_title {
+	width: 250px;
+}
+.editing .show-hide-wrapper {
+	margin-bottom: 20px;
+}
+#wpwrap .notices {
+	background: none repeat scroll 0 0 #FFFFFF;
+	border: 3px dashed #FF0000;
+	color: #000000;
+	font-size: 18px;
+	font-weight: bold;
+	height: 38px;
+	left: 900px;
+	line-height: 38px;
+	position: absolute;
+	text-align: center;
+	width: 200px;
+}
+#request_form h5 {
+	display: inline;
+	padding-right: 10px;
+	width: 100px;
+}
+#request_form label.error {
+	font-size: 11px;
+	padding-left: 10px;
+}
